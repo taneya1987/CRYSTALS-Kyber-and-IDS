@@ -11,7 +11,7 @@ This project explores secure communication between UAVs and ground stations usin
 
 The architecture of this project simulates Unmanned Aerial Vehicles (UAVs) as clients and a Ground Station as the server to ensure secure communication between them. The system uses a combination of Advanced Encryption Standard (AES) for encryption and key encapsulation mechanisms like Elliptic Curve Cryptography (ECC) and CRYSTALS-Kyber. The central server manages multiple client connections, where each client (simulated UAV) can choose between ECC or CRYSTALS-Kyber for secure key exchange. Encrypted data, including video, audio, and image files, are transmitted from the clients to the server (simulated Ground Station), where the data is decrypted. Additionally, an Intrusion Detection System (IDS) is integrated using AI models to detect potential intruders by monitoring traffic patterns and anomalies. The architecture is designed to be lightweight and efficient, making it suitable for deployment on Single Board Computers (SBCs) like Raspberry Pi. The system also logs various performance metrics to assess the effectiveness of different encryption and AI models, ensuring robust security in both VPN and 5G environments.
 
-![image](https://github.com/user-attachments/assets/957acb00-c40d-4d1c-acfc-a1628068d243)
+![AD_Paper](https://github.com/user-attachments/assets/c2b5274d-6af8-4427-9b4e-405d1743f44a)
 
 ## Encryption
 
