@@ -38,6 +38,10 @@ The IDS was evaluated across multiple experiments with datasets of varying sizes
 
 <img width="1092" alt="image" src="https://github.com/user-attachments/assets/0f232f50-ce13-4ffa-8a3e-ef9cb55f5013">
 
+![ids_acc](https://github.com/user-attachments/assets/dc644149-44ab-4fd7-a4d8-45e8bf305c51)
+
+![ids_auc](https://github.com/user-attachments/assets/7163023e-e0c6-4ae7-8a86-c4648cb42973)
+
 
 ## Below steps provide the usage of the repository:
 
