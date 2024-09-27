@@ -1,5 +1,5 @@
-# MSc_AI_Dissertation
-# Title: Secured Communication Schemes for UAVs in 5G:  Lattice-Based Post-Quantum Encryption (CRYSTALS-Kyber) and IDS
+# IEEE FNWF'24 Paper Published
+# Title: Secured Communication Schemes for UAVs in 5G: CRYSTALS-Kyber and IDS
 
 ## Abstract
 
